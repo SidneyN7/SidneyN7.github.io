@@ -1,0 +1,16 @@
+---
+title: "Sidney Nguyen"
+image: IMG_2109.jpg
+about: 
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/SidneyN7
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sidneynguyen-engineering
+    - icon: inboxes
+      text: Contact
+      href: mailto:sidneycnguyen07@gmail.com
+---
